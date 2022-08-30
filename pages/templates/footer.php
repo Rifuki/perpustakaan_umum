@@ -1,0 +1,1 @@
+<footer>Sistem Informasi Perpustakaan</footer>
